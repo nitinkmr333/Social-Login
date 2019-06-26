@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "647648964530",
+    "firebase_url": "https://twitter-project-b2b7f.firebaseio.com",
+    "project_id": "twitter-project-b2b7f",
+    "storage_bucket": "twitter-project-b2b7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647648964530:android:036c9fcc39884af4",
+        "android_client_info": {
+          "package_name": "comp.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647648964530-n6cenq2fu5l61jtogumq9atrehuspf52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "login.social.sample",
+            "certificate_hash": "6725c0825bd22d525ff4f95537cb480f18108add"
+          }
+        },
+        {
+          "client_id": "647648964530-5pbom39d8e56rcepknun5i1iros8j1kn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLBZ9tRL9vKieMJDk6cwaXDSV_BFDq7LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647648964530-5pbom39d8e56rcepknun5i1iros8j1kn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
